@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d3e83b5-bb4b-4107-a9e3-7dfe9889a027" name="Default Changelist" comment="" />
+    <list default="true" id="5d3e83b5-bb4b-4107-a9e3-7dfe9889a027" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/emptyPasswordLogin_-_08_07_2022_-_22:32:56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/invalidPasswordLogin_-_08_07_2022_-_22:33:04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/validLogin_-_08_07_2022_-_21:54:39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/passed/validLogin_-_08_07_2022_-_22:33:14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/codewithazam/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/codewithazam/testcases/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/pages/DashboardPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/pages/DashboardPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/pages/LoginPageElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/pages/LoginPageElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/testbase/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/testbase/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/testbase/Listener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/testbase/Listener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/testcases/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/testcases/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/CommonMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/CommonMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/ConfigsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/ConfigsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/ExcelUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/codewithazam/utils/ExcelUtility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGFramework.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGFramework.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/TestNGFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/TestNGFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Smoke Suite/Smoke Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Smoke Suite/Smoke Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Smoke Suite/Smoke Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Smoke Suite/Smoke Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.codewithazam.testcases.LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.codewithazam.testcases.LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Smoke Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Smoke Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Smoke Suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Smoke Suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Smoke Suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +51,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2D32ZqgL5LEynmOGE6FKedQDIiq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -43,9 +84,9 @@
       <recent name="com.codewithazam.testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/regression.xml">
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codewithazam.testcases.test" />
+  <component name="RunManager" selected="TestNG.LoginTest">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithazam.testcases.main" />
       <module name="TestNGFramework" />
       <extension name="coverage">
         <pattern>
@@ -172,19 +213,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.test" />
       <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/smoke.xml" />
       <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/smoke.xml (1)" />
       <item itemvalue="TestNG.LoginTest" />
       <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/regression.xml" />
+      <item itemvalue="Application.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/regression.xml" />
         <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/regression.xml" />
         <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/smoke.xml (1)" />
         <item itemvalue="TestNG./Users/codewithazam/Desktop/Azam/TestNGFramework/smoke.xml" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -198,5 +239,19 @@
       <updated>1659913510601</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

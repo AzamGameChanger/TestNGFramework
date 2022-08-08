@@ -6,6 +6,7 @@ import com.codewithazam.utils.CommonMethods;
 import com.codewithazam.utils.ConfigsReader;
 import com.codewithazam.utils.Constants;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
 public class LoginTest extends CommonMethods {
@@ -15,10 +16,13 @@ public class LoginTest extends CommonMethods {
         LoginPageElements login = new LoginPageElements();
         DashboardPageElements dashboard = new DashboardPageElements();
 
+        test.info("Entering Valid Login Credentials");
+
         sendText(login.username, ConfigsReader.getProperty("username"));
         sendText(login.password, ConfigsReader.getProperty("password"));
         jsClick(login.loginBtn);
 
+        test.info("Verifying Welcome Message is Displayed");
         boolean welcomeDisplayed =  dashboard.welcomeMessage.isDisplayed();
         Assert.assertTrue(welcomeDisplayed, "Welcome message isn't displayed");
         
@@ -51,5 +55,6 @@ public class LoginTest extends CommonMethods {
         Assert.assertEquals(actualMsg,expectedMsg,"The error message doesn't match");
 
     }
+
 
 }
